@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">List view with AlertDialog</string>
+    <string name="add_or_update">Add or Update</string>
+    <string name="delete">Delete</string>
+    <string name="add2">Add 2</string>
+    <string name="add">Add 1</string>
+    <string name="add_random_name">Add Random Name</string>
+    <string name="three">Add 3</string>
+    <string name="five">Add 5</string>
+    <string name="four">Add 4</string>
+    <string name="select">Select button of random alphabets count</string>
+</resources>
